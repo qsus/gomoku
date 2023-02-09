@@ -2,7 +2,7 @@
 Development of new Gomoku web.
 
 ## Situation now
-There are many websites like playfive.net, piskvorky.net, piskvorky.cz, vcpr.cz under management of the Czech Gomoku and Renju federation.
+There are many websites like playfive.net, piskvorky.net, piskvorky.cz, vcpr.cz, euroleague.cz under management of the Czech Gomoku and Renju federation and several others like gomokuworld.com, renju.net, ...
 
 ## Goal
 One international website for the entire Gomoku world.
@@ -12,5 +12,6 @@ One international website for the entire Gomoku world.
 ## Journey
 It is likely that playfive's design and technology will become the core and other pages will be made, possibly from scratch, around that.
 - move piskvorky.cz
-- check all the current code for venerabilities and open source it
+- check all the current code for vulnerabilities and open source it
 - create game database
+- create unified login
