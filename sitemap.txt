@@ -1,0 +1,15 @@
+Hlavní stránka - úvod, vysvětlení, co je kde na webu
+  O federaci
+    Členství
+    Členové
+    ...
+  Žebříčky - nová aplikace, nástupce gomokuworld
+  Sázení
+    O sázení
+    Současné turnaje
+      ČPL
+      EL
+  Turnaje
+    Historie
+    Nadcházející turnaje
+  Fotogalerie
