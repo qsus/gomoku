@@ -15,3 +15,7 @@ It is likely that playfive's design and technology will become the core and othe
 - check all the current code for vulnerabilities and open source it
 - create game database
 - create unified login
+- Nette will most likely be the framework we use.
+
+## Useful info
+- (Nette translating)[https://doc.nette.org/cs/best-practices/translations]
