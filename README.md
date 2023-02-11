@@ -18,4 +18,4 @@ It is likely that playfive's design and technology will become the core and othe
 - Nette will most likely be the framework we use.
 
 ## Useful info
-- (Nette translating)[https://doc.nette.org/cs/best-practices/translations]
+- [Nette translating](https://doc.nette.org/cs/best-practices/translations)
