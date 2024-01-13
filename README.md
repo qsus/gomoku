@@ -5,17 +5,24 @@ Development of new Gomoku web.
 There are many websites like playfive.net, piskvorky.net, piskvorky.cz, vcpr.cz, euroleague.cz under management of the Czech Gomoku and Renju federation and several others like gomokuworld.com, renju.net, ...
 
 ## Goal
-One international website for the entire Gomoku world.
-- SSL
-- betting system, possibly integrated to playfive.net
+- pořádná herna s dobrým rating systémem, co ukládá hry, včetně korespondenček
+- možnost tvorby vlastních turnajů
+- úlohy (snaphost ze záznamu hry)
+- tutorials, courses (VCT, VCF, swap 2)
+- integrated betting system
+- bigger tournaments (ČPL, EL, MBE, ...) (buďto napojit, nebo nějak zkopírovat a integrovat)
+- analýza (odehraných her a při hře)
+- shop (equipment and merch)
+- forums
+
 
 ## Journey
-It is likely that playfive's design and technology will become the core and other pages will be made, possibly from scratch, around that.
-- move piskvorky.cz
-- check all the current code for vulnerabilities and open source it
-- create game database
-- create unified login
-- Nette will most likely be the framework we use.
+- vytvořit centrální API, které bude sloužit pro:
+  - ukládání her
+  - rating (possibly online & tournament), profiles
+- k centrálnímu api pak půjde modulárně připojit třeba hernu, nebo další komponenty
+- spolupracovat s grafiky při tvorbě front-end
+- ta logika je, že front-end musí být nezávislý na back-endu
 
-## Useful info
-- [Nette translating](https://doc.nette.org/cs/best-practices/translations)
+## Other notes
+- we can partially copy lichess
