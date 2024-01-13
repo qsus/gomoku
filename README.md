@@ -5,20 +5,22 @@ Development of new Gomoku web.
 There are many websites like playfive.net, piskvorky.net, piskvorky.cz, vcpr.cz, euroleague.cz under management of the Czech Gomoku and Renju federation and several others like gomokuworld.com, renju.net, ...
 
 ## Goal
-- pořádná herna s dobrým rating systémem, co ukládá hry, včetně korespondenček
-- možnost tvorby vlastních turnajů
-- úlohy (snaphost ze záznamu hry)
+- A good place to play with a good ELO system, saving games, correspondence games
+- tournament system, official tournaments and the abbility to organize small and private tournaments
+- Puzzles, making snapshots of current games so people can turn interesting moments into puzzles later
 - tutorials, courses (VCT, VCF, swap 2)
+- profiles
 - integrated betting system
 - bigger tournaments (ČPL, EL, MBE, ...) (buďto napojit, nebo nějak zkopírovat a integrovat)
-- analýza (odehraných her a při hře)
+- analysis (of finished games and during games)
 - shop (equipment and merch)
 - forums
+- discord integration
 
 
 ## Journey
-- vytvořit centrální API, které bude sloužit pro:
-  - ukládání her
+- central API for:
+  - saving games
   - rating (possibly online & tournament), profiles
 - k centrálnímu api pak půjde modulárně připojit třeba hernu, nebo další komponenty
 - spolupracovat s grafiky při tvorbě front-end
