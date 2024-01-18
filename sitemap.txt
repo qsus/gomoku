@@ -1,15 +1,15 @@
-Hlavní stránka - úvod, vysvětlení, co je kde na webu
-  O federaci
-    Členství
-    Členové
+Main page- introduction, explanation,where things are on the web
+  About the federation
+    Membership
+    Members
     ...
-  Žebříčky - nová aplikace, nástupce gomokuworld
-  Sázení
-    O sázení
-    Současné turnaje
+  Leaderboards - a new app, gomokuworld's successor
+  Betting
+    About betting
+    Current tournaments
       ČPL
       EL
-  Turnaje
-    Historie
-    Nadcházející turnaje
-  Fotogalerie
+  Tournaments
+    History
+    Upcoming tournaments
+  Gallery
